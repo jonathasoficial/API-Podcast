@@ -1,0 +1,27 @@
+
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["saúde", "esporte", "bodybilder"]
+     },
+     {
+        "podcastName": "flow",
+        "episode": "RUBENS BARRICHELLO - Flow #339",
+        "videoId": "4KDGTdiOV4I",
+        "categories": ["esporte", "corrida"]
+     },
+     {
+      "podcastName": "setsuna",
+      "episode": "setsuna - sekai #001",
+      "videoId": "jnrel8757",
+      "categories": ["misterio", "piscologico"]
+   },
+   {
+      "podcastName": "venus",
+      "episode": "xuxa",
+      "videoId": "4000003034",
+      "categories": ["humor"]
+   }
+]
